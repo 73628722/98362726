@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "https://extreme-lookup.com/json",
+        url: "https://extreme-lookup.com/json/",
 
         type: "POST",
 
